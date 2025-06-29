@@ -1,5 +1,7 @@
 # Zeroshot-Rating-Regressor
 
+For unseen class, Mapping review to rating score from 0 to 10
+
 ## Acknowledgements
 
 This project uses:
