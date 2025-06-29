@@ -2,6 +2,11 @@
 
 For unseen class, Mapping review to rating score from 0 to 10
 
+## Model Download
+
+The pre-trained model (.pth) is too large for GitHub.  
+You can download it from [Google Drive](https://drive.google.com/drive/folders/1KVFS5BbigEq87QyFmvaboXiFFot4RsbN?usp=drive_link).
+
 ## Acknowledgements
 
 This project uses:
